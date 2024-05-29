@@ -1,0 +1,13 @@
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.1\IntegrationEventLogEF.deps.json
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.1\IntegrationEventLogEF.dll
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.1\IntegrationEventLogEF.pdb
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.1\EventBus.dll
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.1\EventBus.pdb
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.csproj.AssemblyReference.cache
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.AssemblyInfoInputs.cache
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.AssemblyInfo.cs
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.csproj.CoreCompileInputs.cache
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\Integrat.DBC0B266.Up2Date
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.dll
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.pdb

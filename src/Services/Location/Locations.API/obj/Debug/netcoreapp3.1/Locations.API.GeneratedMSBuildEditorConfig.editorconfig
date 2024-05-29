@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Locations.API
+build_property.ProjectDir = C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\Services\Location\Locations.API\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

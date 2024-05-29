@@ -1,0 +1,13 @@
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.1\EventBusServiceBus.deps.json
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.1\EventBusServiceBus.dll
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.1\EventBusServiceBus.pdb
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.1\EventBus.dll
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.1\EventBus.pdb
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.csproj.AssemblyReference.cache
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.AssemblyInfoInputs.cache
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.AssemblyInfo.cs
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBus.A7833EC2.Up2Date
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.dll
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.pdb

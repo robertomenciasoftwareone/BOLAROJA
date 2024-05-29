@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = BolaRoja.Mobile.Shopping.HttpAggregator
+build_property.ProjectDir = C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\ApiGateways\Mobile.Bff.Shopping\aggregator\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = WebhookClient
+build_property.ProjectDir = C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\Web\WebhookClient\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

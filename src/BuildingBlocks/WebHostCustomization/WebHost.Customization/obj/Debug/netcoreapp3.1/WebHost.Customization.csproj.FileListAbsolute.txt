@@ -1,0 +1,13 @@
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\netcoreapp3.1\WebHost.Customization.deps.json
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\netcoreapp3.1\WebHost.Customization.runtimeconfig.json
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\netcoreapp3.1\WebHost.Customization.runtimeconfig.dev.json
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\netcoreapp3.1\WebHost.Customization.dll
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\netcoreapp3.1\WebHost.Customization.pdb
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.csproj.AssemblyReference.cache
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.AssemblyInfoInputs.cache
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.AssemblyInfo.cs
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.csproj.CoreCompileInputs.cache
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.dll
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.pdb
+C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.genruntimeconfig.cache

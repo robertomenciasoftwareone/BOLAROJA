@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tlFjtKNsbvI+k7FcEC4i9BUulhjFxqmZ3LjX1Ks2MpF8J/I0psm+4Ekq0Dp2qZoQV9CeG1SLWRbKA6T41mzgfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roberto.mencia\\Downloads\\eShopOnContainers-main\\eShopOnContainers-main\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roberto.mencia\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\roberto.mencia\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\7.0.0\\mediatr.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\roberto.mencia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\roberto.mencia\\.nuget\\packages\\system.reflection.typeextensions\\4.7.0\\system.reflection.typeextensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

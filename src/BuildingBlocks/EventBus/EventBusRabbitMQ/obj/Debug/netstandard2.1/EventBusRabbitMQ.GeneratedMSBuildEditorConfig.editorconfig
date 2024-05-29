@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = BolaRoja.BuildingBlocks.EventBusRabbitMQ
+build_property.ProjectDir = C:\Users\roberto.mencia\Downloads\eShopOnContainers-main\eShopOnContainers-main\src\BuildingBlocks\EventBus\EventBusRabbitMQ\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
